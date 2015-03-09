@@ -18,7 +18,7 @@ import org.snmp4j.transport.DefaultTcpTransportMapping;
 import org.snmp4j.transport.DefaultUdpTransportMapping;
 /**
  * This class is used as a generic class to set community target,transport mapping and create SNMP 
- *  @author satish_k
+ *  @author senthilnathan_c
  */
  public class Connection{
 	/**

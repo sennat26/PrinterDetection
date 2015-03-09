@@ -8,10 +8,8 @@ import java.util.ResourceBundle;
  * This utility class will take care of the label constants to be<br>
  * displayed in the Agent UI.
  * <br>
- * Copyright (c) 2008, HCL Technologies.<br>
- * May 21, 2009 1:13:41 PM<br>
  * 
- * @author rejithes
+ * @author senthilnathan_c
  * @version $Id$
  */
 public final class I18NHelper {

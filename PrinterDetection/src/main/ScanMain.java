@@ -1,7 +1,7 @@
 package main;
 /**
  * Main class 
- * @author satish_k 
+ * @author senthilnathan_c 
  */
 import components.ScanFrame;
 

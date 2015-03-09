@@ -11,7 +11,7 @@ import actions.ExitAction;
 
 /**
  * class to design base panel of UI
- * @author satish_k  
+ * @author senthilnathan_c  
  */
 public class ToolFooter extends JPanel {
 	/**

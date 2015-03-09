@@ -14,7 +14,7 @@ import components.ScanFrame;
 import components.ToolFooter;
 /**
  * Swing worker class to populate consumables table
- * @author satish_k 
+ * @author senthilnathan_c 
  */
 @SuppressWarnings("unchecked")
 public class PopulateWorker extends SwingWorker {

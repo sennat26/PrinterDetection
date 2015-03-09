@@ -21,7 +21,7 @@ import components.ToolFooter;
 
 /**
  * class to send request to device and get its consumables        
- * @author satish_k 
+ * @author senthilnathan_c 
  */
 public class GetConsumables {
 

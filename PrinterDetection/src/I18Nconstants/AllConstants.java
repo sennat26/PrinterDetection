@@ -4,7 +4,7 @@ import utils.I18NHelper;
 
 /**
  * Constants for UI.
- * @author satish_k
+ * @author senthilnathan_c
  */
 public final class AllConstants {
 

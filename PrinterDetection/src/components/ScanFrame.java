@@ -16,7 +16,7 @@ import javax.swing.JWindow;
 
 /**
  * This Class will be used for loading the Application
- * @author satish_k 
+ * @author senthilnathan_c 
  */
 public class ScanFrame extends JFrame {
 

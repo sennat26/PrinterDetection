@@ -1,7 +1,7 @@
 package model;
 /**
  * Pojo class for Devices
- * @author satish_k
+ * @author senthilnathan_c
  * */
 public class DeviceData {
 	/**

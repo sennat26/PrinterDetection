@@ -32,7 +32,7 @@ import functionality.PopulateWorker;
 /** 
  * 
  * DeviceDetails class to display printer details in application
- * @author satish_k & senthilnathan_c
+ * @author senthilnathan_c
  */
 public class DeviceDetailsView extends JPanel {
 	 /**

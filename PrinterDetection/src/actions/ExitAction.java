@@ -6,7 +6,7 @@ import java.awt.event.WindowEvent;
 
   /**
    * Action class for button exit
-   * @author satish_k   
+   * @author senthilnathan_c  
    */
 
 public class ExitAction extends Actions {

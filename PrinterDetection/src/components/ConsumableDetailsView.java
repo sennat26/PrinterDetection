@@ -22,7 +22,7 @@ import actions.GetConsumablesAction;
 
 /**
  * Class to display consumable details in Application
- * @author satish_k & senthilnathan_c
+ * @author senthilnathan_c
  */
 public class ConsumableDetailsView extends JPanel {
 	/**

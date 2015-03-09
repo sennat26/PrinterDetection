@@ -5,7 +5,7 @@ import javax.swing.AbstractAction;
 
 /**
  * Base class for all the actions
- * @author satish_k 
+ * @author  senthilnathan_c
  */
 
 public abstract class Actions extends AbstractAction {

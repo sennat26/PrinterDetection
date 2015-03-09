@@ -9,7 +9,7 @@ import javax.swing.ImageIcon;
 import javax.swing.JPanel;
 /**
  * This class creates the header panel for the application
- * @author satish_k
+ * @author senthilnathan_c
  */
 public class ToolHeader extends JPanel {
 

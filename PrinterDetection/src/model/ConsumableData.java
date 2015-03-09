@@ -1,7 +1,7 @@
 package model;
 /**
  * Pojo class for consumables
- * @author satish_k
+ * @author senthilnathan_c
  */
 public class ConsumableData {
 	/**

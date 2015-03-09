@@ -5,7 +5,7 @@ import java.awt.GridLayout;
 import javax.swing.JPanel;
  /**
   * class to design center panel of UI
-  * @author satish_k 
+  * @author senthilnathan_c 
   * */
 public class ToolCenter extends JPanel {
     /**
